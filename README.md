@@ -2,6 +2,7 @@
 - 👀 I’m a MEAN/MERN Developer
 - 🌱 I’m currently learning System Designs and Design Patterns.
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&layout=compact&theme=tokyonight&langs_count=6" />
 
 
 <!---
