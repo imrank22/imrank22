@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @imrank22
-- 👀 I’m a MEAN/MERN Developer
-- 🌱 I’m currently learning System Designs and Design Patterns.
+- 👀 I’m a MEAN/MERN Developer with 6+ years of experience in Software Development, System Design, building end-to-end applications from scratch, and scaling from zero to hero.
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&layout=compact&theme=tokyonight&langs_count=6" />
 
